@@ -35,8 +35,8 @@ Solution in Mobile
 
 ### Links
 
-- Solution URL:()
-- Live Site URL:()
+- Solution URL:(https://github.com/p-vivek/Intro-section-with-dropdown-navigation)
+- Live Site URL:(https://p-vivek.github.io/Intro-section-with-dropdown-navigation/)
 
 ### Built with
 
